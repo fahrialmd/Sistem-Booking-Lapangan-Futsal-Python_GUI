@@ -10,7 +10,7 @@ import login_page as lp
 f = ('Times', 14)
 
 rootapp = Tk()
-rootapp.title('BBookball')
+rootapp.title('BookBall')
 rootapp.geometry('1000x600')
 rootapp.config(bg="orange red")
 lp.LoginPage(rootapp)
